@@ -1,5 +1,6 @@
 # Downloaded list :
 
+- [Git-2.54.0-64-bit](./Git-2.54.0-64-bit)
 - [WA6ym0uDBBoR44154Sh6h8wqVjZ5Yl6B0zGHx7MMwFBA9A8ogaQJATB9Jow=_A4vbViuOsFYDwy+SN9LIag==](./WA6ym0uDBBoR44154Sh6h8wqVjZ5Yl6B0zGHx7MMwFBA9A8ogaQJATB9Jow%3D_A4vbViuOsFYDwy%2BSN9LIag%3D%3D)
 - [archive_20260510_065153](./archive_20260510_065153)
 - [archive_20260510_065728](./archive_20260510_065728)
