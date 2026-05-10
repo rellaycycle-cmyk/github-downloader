@@ -1,16 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [Git-2.54.0-64-bit](./Git-2.54.0-64-bit)
-- [WA6ym0uDBBoR44154Sh6h8wqVjZ5Yl6B0zGHx7MMwFBA9A8ogaQJATB9Jow=_A4vbViuOsFYDwy+SN9LIag==](./WA6ym0uDBBoR44154Sh6h8wqVjZ5Yl6B0zGHx7MMwFBA9A8ogaQJATB9Jow%3D_A4vbViuOsFYDwy%2BSN9LIag%3D%3D)
-- [archive_20260510_065153](./archive_20260510_065153)
-- [archive_20260510_065728](./archive_20260510_065728)
-- [archive_20260510_065749](./archive_20260510_065749)
-- [archive_20260510_065813](./archive_20260510_065813)
-- [archive_20260510_065826](./archive_20260510_065826)
-- [go1.26.3.windows-amd64](./go1.26.3.windows-amd64)
-- [j7TOZ5JvjvtrisPq+4x+T+a+cZLgFl2NAYtgnrw9c+S8yF338NH7Hfsaju7etFVDNV+QlyItbel9RpCEz6WqUqGYl4zahULswsH7HMGbhv639mYzVifahR8i+jCuRzLgQcbHrWI42ut1YSu9SCvYFDbLMHo4FW+rXqhaKAqiDz27o4X4sCZ1zyvbKDIg=_kUguOhgmfiKsuASW6u9hDg==](./j7TOZ5JvjvtrisPq%2B4x%2BT%2Ba%2BcZLgFl2NAYtgnrw9c%2BS8yF338NH7Hfsaju7etFVDNV%2BQlyItbel9RpCEz6WqUqGYl4zahULswsH7HMGbhv639mYzVifahR8i%2BjCuRzLgQcbHrWI42ut1YSu9SCvYFDbLMHo4FW%2BrXqhaKAqiDz27o4X4sCZ1zyvbKDIg%3D_kUguOhgmfiKsuASW6u9hDg%3D%3D)
-- [oyWwIzhikFWRxWb60JtjdFpU6a9AS5kyDAxIG+XKSswM=_Um6a7sY0gOmEeszUb9rzYg==](./oyWwIzhikFWRxWb60JtjdFpU6a9AS5kyDAxIG%2BXKSswM%3D_Um6a7sY0gOmEeszUb9rzYg%3D%3D)
-- [xW3qjzVJ3+gTQXP0nmTneQZmkAicOqRcRin2AfPodI1SP3Q1wgfDjx6wDhLRnQuzVw6NFU4LN4qebZjE9KYqKgTv+rM4EVC5KJ6BBbFng7ySDI8dViEfbUrsHCouMxYOGuGj4SxehxBtVCE7or8pm+Y9o7Fa8Ihm69wsGCJW+UYSA2UFaeFDcnn7jw==_IqjOC753rbKfwUQ4jiPOpw==](./xW3qjzVJ3%2BgTQXP0nmTneQZmkAicOqRcRin2AfPodI1SP3Q1wgfDjx6wDhLRnQuzVw6NFU4LN4qebZjE9KYqKgTv%2BrM4EVC5KJ6BBbFng7ySDI8dViEfbUrsHCouMxYOGuGj4SxehxBtVCE7or8pm%2BY9o7Fa8Ihm69wsGCJW%2BUYSA2UFaeFDcnn7jw%3D%3D_IqjOC753rbKfwUQ4jiPOpw%3D%3D)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
